@@ -1,6 +1,6 @@
 # Stochastic matching: restarted formalization
 
-## Checkpoint 51: optimal competitive ratio in the Poisson model
+## Optimal competitive ratio in the Poisson model
 
 The public theorem in `Matching/PoissonOptimalRatio.lean` is:
 
