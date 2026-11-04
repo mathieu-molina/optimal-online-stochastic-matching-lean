@@ -10,7 +10,11 @@ The repository accompanies the paper and allows independent checking of the form
 
 The formalization proves both achievability and optimality of the competitive ratio
 
-$$ 1-\frac{e}{e^e}\approx 0.8206259213 $$,
+```math
+1-\frac{e}{e^e}\approx 0.8206259213,
+```
+
+
 
 with respect to the expected size of a maximum matching. The main result is `StochasticMatching.optimalPoissonCompetitiveRatio_eq` in [`Matching/PoissonOptimalRatio.lean`](Matching/PoissonOptimalRatio.lean).
 
